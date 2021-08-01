@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="getFanArtImage(val,caller,secondTry)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
