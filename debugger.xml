@@ -1,7 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="SKIP_SYNTHETIC_METHODS" value="false" />
-    <option name="SKIP_CLASSLOADERS" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -88,11 +86,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="oracle">
-        <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
