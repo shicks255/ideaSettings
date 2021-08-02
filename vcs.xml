@@ -10,6 +10,10 @@
           <option name="url" value="http://github.expedia.biz" />
           <option name="userName" value="sthicks" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.expedia.biz/eg-sponsored-content/sponsored-content-service-client-tools" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
