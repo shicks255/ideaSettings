@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'paid-search-platform-api'" />
+    <option name="defaultScopeName" value="Project 'paid-search-platform-api'" />
+    <option name="SEARCH_SCOPE" value="Project 'paid-search-platform-api'" />
     <mask>*.tsx</mask>
     <mask>*.js</mask>
   </component>
