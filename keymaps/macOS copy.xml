@@ -1,10 +1,30 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
   <action id="CloseContent" />
+  <action id="Console.TableResult.AddRow" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MoveLineDown">
@@ -17,9 +37,22 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
 </keymap>
