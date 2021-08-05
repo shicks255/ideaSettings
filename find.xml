@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'LastFmService'" />
+    <option name="defaultScopeName" value="Project 'LastFmService'" />
+    <option name="SEARCH_SCOPE" value="Project 'LastFmService'" />
     <mask>*.tsx</mask>
-    <mask>*.js</mask>
   </component>
 </application>
