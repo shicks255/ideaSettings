@@ -91,16 +91,18 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
-      <debugger id="oracle">
-        <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>
