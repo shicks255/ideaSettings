@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/keycloak/keycloak" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.expedia.biz/PFS-Splunk-Cloud/bexg-pcvb-ae" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
